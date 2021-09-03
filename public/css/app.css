@@ -1,0 +1,27 @@
+.form-group{
+    padding: 10px;
+}
+.form-control, .form-select{
+    width: 300px;
+    border: 1px solid black;
+}
+.answer{
+    padding: 20px;
+}
+.card-con{
+    height: 100vh;
+    display: grid;
+    align-items: center;    
+}
+
+.btn-con{
+    display: grid;
+    justify-content: center;
+    padding: 10px;
+}
+.btn{
+    width: 100px;
+}
+.bg{
+    background-color: yellow;
+}
